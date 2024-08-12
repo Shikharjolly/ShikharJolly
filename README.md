@@ -1,4 +1,11 @@
 ## Hi there 👋
+Welcome to Shikhar Jolly's Github page  
+
+I am currently working on numerous personal and professional projects. Keep an eye out for regular updates! 🔭
+
+I am always trying to learn about new technologies 📚
+
+Say hi on LinkedIn! : https://www.linkedin.com/in/shikhar-jolly-0b755a319/
 
 <!--
 **Shikharjolly/ShikharJolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
